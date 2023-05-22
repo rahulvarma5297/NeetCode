@@ -57,3 +57,5 @@ int int_to_string()
 //     cout << s.substr(0, s.find(":")) << endl;  
 //     cout << s.substr(s.find(":") + 1) << endl;
 // };
+
+// Learn all sorting algo's.
