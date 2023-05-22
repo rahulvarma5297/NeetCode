@@ -46,3 +46,14 @@ int int_to_string()
 
 // 118 Pascal's Triangle Intresting way.
 // Use vector<int> temp(i + 1, 1); properly (i + 1, 1).
+
+// See about the substring from the geeksforgeeks.
+// https://www.geeksforgeeks.org/substring-in-cpp/
+
+// class Substring
+// {
+//     string s = "abc:def";
+//     cout << s.find(":") << endl;
+//     cout << s.substr(0, s.find(":")) << endl;  
+//     cout << s.substr(s.find(":") + 1) << endl;
+// };
